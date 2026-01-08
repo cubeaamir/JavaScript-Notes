@@ -1,6 +1,6 @@
 ### Summary of JavaScript Tutorial Video by Harsh Vandana Sharma (Sharans Coding School)
 
-This comprehensive tutorial, presented by Harsh Vandana Sharma from Sharans Coding School, systematically covers core JavaScript concepts with a focus on practical application for becoming a proficient JavaScript developer. The video is part two of a four-part series and emphasizes **hands-on learning** through explanations followed by coding exercises and projects.
+This comprehensive tutorial, systematically covers core JavaScript concepts with a focus on practical application for becoming a proficient JavaScript developer. The video is part two of a four-part series and emphasizes **hands-on learning** through explanations followed by coding exercises and projects.
 
 ---
 
@@ -119,7 +119,7 @@ The video delivers an extensive, practical JavaScript learning experience focuse
 
 ### Additional Notes
 
-- The tutorial encourages learners to follow updates on Instagram (@harshvandana.sharma) and the Sharans Coding School social channels.
+- The tutorial encourages learners to follow updates on Instagram (@cubeaamir).
 - Multiple reminders stress the importance of mindset, motivation, and continuous coding practice.
 - The content is rich with motivational guidance, practical tips for debugging, and career-oriented advice.
 - The upcoming videos will cover more advanced topics and projects to deepen understanding.
